@@ -1,6 +1,48 @@
 /*CSS for the splash page*/
 
-#splash {
-  background-image: url(img/gaClass.jpg);
-  /*background-repeat: no-repeat;*/
+body {
+  background-image: url("/Users/robertzehnder/wdi/sandbox/outcomesSite/img/gaClass.jpg");
+  background-repeat: no-repeat;
+  max-width: 1200px;
+  min-height: 800px;
+  /*margin: 0 auto;*/
+  font-family: 'Merriweather', serif;
+}
+
+img {
+  max-width: 300px;
+  max-height: 300px;
+
+}
+
+#topBar {
+  max-width: 1185px;
+
+}
+
+div {
+  background-color: rgba(255,255,255,.8);
+}
+
+.login {
+  max-width: 300px;
+  max-height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
+
+.buttons {
+  background-color: #fa4542;
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: 80%;
+  height: 50px;
+  font-size: 18px;
 }
