@@ -17,19 +17,19 @@ data = [
     theme: 'Participating in the Community; Understanding the Landscape',
     materials: 'none',
     workDue: '3 Networking Opportunities that you will attend & Input into your Personal Outcomes Tracker 3 Organizations that pique  your interest & Input into your Personal Outcomes Tracker in Company Target List Weekly Blogpost',
-    homework: 'What’s My Brand Worksheet (Once completed, save your edit link to see your responses ongoing) \n Free Personality Test \n Identify 3 New Organizations that pique  your interest & Input into your Personal Outcomes Tracker  in Company Target List \n Weekly Blogpost ' ,
+    homework: 'What’s My Brand Worksheet (Once completed, save your edit link to see your responses ongoing) <br> Free Personality Test <br> Identify 3 New Organizations that pique  your interest & Input into your Personal Outcomes Tracker  in Company Target List <br> Weekly Blogpost ' ,
     smallGroup: 'Introductions: Your Goals & Identifying Your Why',
     resources: "Best Practices -- Entrepreneurial Resources"
   },
   {
     week: 3,
     title: 'Finding Your Voice & Defining Your Brand',
-    content: 'Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. This is what makes you different than any other candidates and allows you to stand out from the crowd. These differentiators, when coupled with your hard skills, translate into employable skills that define you as a professional. \n But how do you promote your brand and talents? Don’t worry, we’ve got you covered!  We will show you how to explain yourself and your talents in a compelling and interesting way so that your brand doesn’t get lost in translation!',
+    content: 'Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. This is what makes you different than any other candidates and allows you to stand out from the crowd. These differentiators, when coupled with your hard skills, translate into employable skills that define you as a professional. <br> But how do you promote your brand and talents? Don’t worry, we’ve got you covered!  We will show you how to explain yourself and your talents in a compelling and interesting way so that your brand doesn’t get lost in translation!',
     goal: 'Defining Your Voice and Discovering Your Brand is critical in the job search success story! Improve your elevator pitches and presentations by learning how to utilize storytelling techniques in business settings.',
     theme: 'Developing Your Brand',
-    materials: 'Bring notebook, pen/pencil \n <a href="https://drive.google.com/open?id=0B0cuNYi34jyuV1NmRjgzSDJ4d3M">Storytelling Tips, Tricks & Story Map</a>',
+    materials: 'Bring notebook, pen/pencil <br> <a href="https://drive.google.com/open?id=0B0cuNYi34jyuV1NmRjgzSDJ4d3M">Storytelling Tips, Tricks & Story Map</a>',
     workDue: '3 Networking Opportunities that you will attend & Input into your Personal Outcomes Tracker 3 Organizations that pique  your interest & Input into your Personal Outcomes Tracker in Company Target List Weekly Blogpost',
-    homework: 'What’s My Brand Worksheet (Once completed, save your edit link to see your responses ongoing) \n Free Personality Test \n Identify 3 New Organizations that pique  your interest & Input into your Personal Outcomes Tracker  in Company Target List \n Weekly Blogpost ' ,
+    homework: 'What’s My Brand Worksheet (Once completed, save your edit link to see your responses ongoing) <br> Free Personality Test <br> Identify 3 New Organizations that pique  your interest & Input into your Personal Outcomes Tracker  in Company Target List <br> Weekly Blogpost ' ,
     smallGroup: 'No small groups this week',
     resources: "Professional Brand"
   }

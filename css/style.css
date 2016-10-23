@@ -3,6 +3,8 @@ main {
   border: 2px solid black;
   padding-left: 2.5%;
   padding-right: 2.5%;
+  /*display: flex;
+  flex-direction: row;*/
 }
 
 .clear {
@@ -14,10 +16,29 @@ main {
   border: 2px solid red;
   float: left;
   min-height: 400px;
+  /*height: ;*/
 }
 
 .content {
-  width:80%;
+  float: right;
+  width:84%;
   border: 2px solid red;
   min-height: 400px;
+}
+
+.overview {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+/*.week {
+  display: none;
+}
+
+#week1 {
+  display: block;
+}*/
+
+h3 {
+  display: inline;
 }
