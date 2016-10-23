@@ -21,7 +21,6 @@ class RoadmapView {
   }
   render(){
     this.element = this.template();
-    counter=0;
   }
 
 }

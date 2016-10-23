@@ -7,15 +7,16 @@ $( document ).ready(function() {
       $(".content").append(roadmapView.element)
       $("#weekDD").append("<option value='week" + info.week + "'>Week "  + info.week + "</option>")
       $('.week').hide();
-      $('#week1').toggle();
+      $('#week1').show();
+      // oldID = '#week1';
   });
 
+
+
   $("#weekDD").change(function() {
-      let id = '#' + $("#weekDD option:selected").val();
-      // console.log(week1);
+      let newID = '#' + $("#weekDD option:selected").val();
       $('.week').hide(); //$(this).attr("style", "");
-      $(id).attr("style", "");;
-      console.log(id)
+      $(newID).show();
   });
 });
 
