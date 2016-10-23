@@ -1,6 +1,5 @@
 data = [
-  {
-    week: 1,
+  {week: 1,
     title: 'Introduction to Outcomes',
     content: 'Who is the Outcomes Team and this community of DC techies?  How are you going to land a job in a competitive market utilizing the talents you are about to embark on? What types of jobs exist that could be your next professional chapter? How can you best get involved in the most sought after community in DC? Join us as we introduce the DC Outcomes Team and how we are going to help you navigate the job search starting week 1!',
     goal: 'Setting clear expectations around Outcomes, it’s mission, vision, and goals. You will understand how to qualify for Outcomes support, the 5 themes associated with success, and what is required to be a job seeker',
@@ -9,8 +8,7 @@ data = [
     workDue: 'Outcomes Pre-Work',
     homework: 'Identify 3 Networking Opportunities to attend throughout your program  & input into your Personal Outcomes Tracker -- Identify 3 New Organizations that pique  your interest & Input into your Personal Outcomes Tracker  in Company Target List Weekly Blogpost' ,
     smallGroup: 'none',
-    resources: "Best Practices -- Entrepreneurial Resources"
-  }
+    resources: "Best Practices -- Entrepreneurial Resources"},
   {
     week: 2,
     title: 'Cheers to Those Who Survived: the Ones with a Job!',
@@ -22,7 +20,7 @@ data = [
     homework: 'What’s My Brand Worksheet (Once completed, save your edit link to see your responses ongoing) \n Free Personality Test \n Identify 3 New Organizations that pique  your interest & Input into your Personal Outcomes Tracker  in Company Target List \n Weekly Blogpost ' ,
     smallGroup: 'Introductions: Your Goals & Identifying Your Why',
     resources: "Best Practices -- Entrepreneurial Resources"
-  }
+  },
   {
     week: 3,
     title: 'Finding Your Voice & Defining Your Brand',
@@ -35,4 +33,4 @@ data = [
     smallGroup: 'No small groups this week',
     resources: "Professional Brand"
   }
-]
+];
