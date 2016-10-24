@@ -2,26 +2,32 @@
 
 body {
   background-image: url("/Users/robertzehnder/wdi/sandbox/outcomesSite/img/gaClass.jpg");
-  background-repeat: no-repeat;
-  max-width: 1200px;
+  /*background-repeat: no-repeat;*/
+  background-size: cover;
+  /*max-width: 1200px;*/
   min-height: 800px;
   /*margin: 0 auto;*/
   font-family: 'Merriweather', serif;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 
 img {
   max-width: 300px;
   max-height: 300px;
-
+  margin-left: 20px;
 }
 
 #topBar {
-  max-width: 1185px;
-
+  max-width: 99.7%;
+  margin-top: -255px;
+  
 }
 
 div {
   background-color: rgba(255,255,255,.8);
+
 }
 
 .login {
@@ -29,10 +35,11 @@ div {
   max-height: 300px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 200px;
+  margin-top: 125px;
   text-align: center;
   padding-bottom: 10px;
   padding-top: 5px;
+
 }
 
 .buttons {
@@ -45,4 +52,5 @@ div {
   width: 80%;
   height: 50px;
   font-size: 18px;
+
 }
