@@ -1,6 +1,7 @@
 class Student extends Person {
-  constructor() { //homework
+  constructor(cohort,homework) { //homework
     super(name,email,schedule,imgUrl)
-    //this.homework = homework
+    this.cohort = cohort
+    this.homework = homework
   }
 }
